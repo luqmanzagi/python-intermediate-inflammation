@@ -43,4 +43,3 @@ def daily_min(data):
     :returns: show min value of the colomns
     """
     return np.min(data, axis=0)
-
